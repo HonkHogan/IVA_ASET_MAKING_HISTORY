@@ -19,3 +19,8 @@ RasterPropMonitor v0.30.6
 ModuleManager v4.0.2
 ToolbarController v1.8.2
 ClickThroughBlocker v0.1.7.2
+
+License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
