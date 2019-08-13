@@ -9,7 +9,7 @@ Include IVA for:
 -KV3
 
 
-installation:
+Installation:
 Unpack in KSP main folder.
 
 
